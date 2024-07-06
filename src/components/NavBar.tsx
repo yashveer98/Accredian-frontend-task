@@ -1,6 +1,4 @@
 import React from 'react'
-import { Button } from './ui/button'
-
 export const NavBar = () => {
     return (
         <div className='flex h-[79.2px] justify-center justify-items-center'>
